@@ -40,6 +40,11 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.experience_area{
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
 .full_stack{
     box-shadow: 10px 10px 40px;
     border-radius: 5px;
@@ -47,6 +52,7 @@ section{
     border-left: 7px solid;
     border-image: linear-gradient(180deg,#dbd2cd, #FF784F);
     border-image-slice: 1;
+    background-color: white;
 }
 .baby_web{
     box-shadow: 10px 10px 40px;
